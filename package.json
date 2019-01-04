@@ -3,7 +3,6 @@
   "main": "index.js",
   "icon": "images/favicon.png",
   "scripts": {
-      "start": "electron ."
+    "start": "electron ."
   }
 }
-
